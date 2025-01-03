@@ -1,1 +1,2 @@
-# COTS_2211104008_MARIA-NATHASYA-DESFERA-PANGESTU
+# cots_2211104008_maria
+Mohon maaf pak saya tidak bisa menyertakan screenshot outputnya dikarenakan tidak bisa di run di laptop saya, sudah dicoba di run lewat chrome, emulator, dan hp juga tidak muncul tampilannya.
