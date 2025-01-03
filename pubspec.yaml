@@ -1,0 +1,35 @@
+name: cots_2211104008_maria
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Tambahkan assets
+  assets:
+    - assets/gojek_logo.png
+    - assets/language.png
+    - assets/illustration1.png
+    - assets/illustration2.png
+    - assets/illustration3.png
+    - assets/illustration4.png
+    - assets/illustration5.png
+    - assets/illustration6.png
+    - assets/illustration7.png
+    - assets/illustration8.png
